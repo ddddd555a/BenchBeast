@@ -5,9 +5,8 @@ In this project, I am asking 5 questions to test if the person is knowledgeable 
 And the last 3 questions is a tool that users can use to see what stimulus point is used in particular poses in bench press.
 ![IdeaSketch](https://user-images.githubusercontent.com/89341312/168734463-b71c365c-6eb4-40e9-ac64-efece74ae3fa.jpeg)
 
-<Idea Sketch>
+-Idea Sketch
   
  ![firstPageSketch](https://user-images.githubusercontent.com/89341312/168734671-9c15adcd-5e17-4849-be0c-b5af9a6b0741.jpeg)
 
-
-<Page design sketch>
+-List of questions
