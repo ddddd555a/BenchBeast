@@ -6,6 +6,8 @@ And the last 3 questions is a tool that users can use to see what stimulus point
 ![IdeaSketch](https://user-images.githubusercontent.com/89341312/168734463-b71c365c-6eb4-40e9-ac64-efece74ae3fa.jpeg)
 
 <Idea Sketch>
-![firstPageSketch](https://user-images.githubusercontent.com/89341312/168734474-9bb1fbf9-4e9e-4491-8af3-832d8685633f.jpeg)
+  
+ ![firstPageSketch](https://user-images.githubusercontent.com/89341312/168734671-9c15adcd-5e17-4849-be0c-b5af9a6b0741.jpeg)
+
 
 <Page design sketch>
