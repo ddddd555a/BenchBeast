@@ -31,9 +31,9 @@ In the result page, based on the lcoalstorage of the answers that users made, th
 And for the motion stimulus part,
 The tool shows activated muscle in a posture and bench angle the user chose.
 
-<img width="1440" alt="Screen Shot 2022-05-17 at 1 31 57 AM" src="https://user-images.githubusercontent.com/89341312/168737452-732702bc-b954-4531-afe9-b1cfcfeb7167.png">
 
-Lastly, 
-There is a small tip section that I use while doing a bench press.
+Lastly, <img width="1440" alt="Screen Shot 2022-05-17 at 1 42 07 AM" src="https://user-images.githubusercontent.com/89341312/168737529-09796beb-2243-4217-bce4-019cba6a58a0.png">
+
+Lastly, there is a small tip section that I use while doing a bench press.
 
 
