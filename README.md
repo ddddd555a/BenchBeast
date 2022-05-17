@@ -5,6 +5,7 @@ Bodybuilding is a universal sport community that focuses on muscle growth. The g
 ![IdeaSketch](https://user-images.githubusercontent.com/89341312/168734463-b71c365c-6eb4-40e9-ac64-efece74ae3fa.jpeg)
 
 -Idea Sketch for each page
+
 There are total three pages for the project: home page, question page, result page. The home page has a big title 'RU Benchpress freak?' with square button that leads users to question page.
 
   
