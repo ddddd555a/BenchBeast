@@ -62,19 +62,20 @@ const select = () => {
     '<div class="subtitle"><br> Stimulus: Shoulder+ Upper Chest</div>'+
     '<label class="shoulder_b"></label>'
   }
+
   if (bench ==='1'&& waist !== '1'){
     preferanceList.innerHTML += 
     '<div class="subtitle"><br> Stimulus: Upper Chest</div>'+
     '<label class="chest_a"></label>'
   }
 
-  if (bench ==='1'&& waist === '3'){
+  if (bench ==='1' && waist === '3'){
     preferanceList.innerHTML += 
     '<div class="subtitle"><br> Stimulus: Upper Chest</div>'+
     '<label class="shoulder_b"></label>'
   }
 
-  if (bench ==='2'&& armpit === '3'){
+  if (bench ==='2' && armpit === '3'){
     preferanceList.innerHTML += 
     '<div class="subtitle"><br> Stimulus: Shoulder</div>'+
     '<label class="shoulder_a"></label>'
