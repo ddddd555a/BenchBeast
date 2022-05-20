@@ -49,51 +49,63 @@ const select = () => {
       '<label class="bar_b">O</label>'+
       '<p></p>'
   }
-  // if (isBarGrab === 'bar_b',isSlower === 'slower_a',isShoulder === 'shoulder_down',isWristAngle === 'wrist_b',isBreath === 'inhale'){
-  //   wrongList.innerHTML +=
-  //   '<div class="subtitle"> You got it all right! YOU ARE THE BENCH FREAK</div>'
-  //     '<div class="subtitle">YOU ARE THE BENCH FREAK</div>'
-  // }
+  if (isBarGrab === 'bar_b' &&isSlower === 'slower_a' &&isShoulder === 'shoulder_down' &&isWristAngle === 'wrist_b' &&isBreath === 'inhale'){
+    wrongList.innerHTML +=
+    '<div class="subtitle">you got it all! <br> YOU ARE THE BENCH FREAK<br></div>' 
+  }
 
 
   // Preferance question
   // result comes out based on the value of digits in degree of armpit, waist, and bench
-  if (bench ==='1', waist === '1'){
+  if (bench ==='1'&& waist === '1'){
     preferanceList.innerHTML += 
-    '<div class="subtitle">- Stimulus: Shoulder+ Upper Chest</div>'+
+    '<div class="subtitle"><br> Stimulus: Shoulder+ Upper Chest</div>'+
     '<label class="shoulder_b"></label>'
   }
-  if (bench ==='1', waist !== '1'){
+  if (bench ==='1'&& waist !== '1'){
     preferanceList.innerHTML += 
-    '<div class="subtitle">- Stimulus: Upper Chest</div>'+
+    '<div class="subtitle"><br> Stimulus: Upper Chest</div>'+
     '<label class="chest_a"></label>'
   }
 
-  if (bench ==='2', armpit === '3'){
+  if (bench ==='1'&& waist === '3'){
     preferanceList.innerHTML += 
-    '<div class="subtitle">- Stimulus: Shoulder</div>'+
+    '<div class="subtitle"><br> Stimulus: Upper Chest</div>'+
+    '<label class="shoulder_b"></label>'
+  }
+
+  if (bench ==='2'&& armpit === '3'){
+    preferanceList.innerHTML += 
+    '<div class="subtitle"><br> Stimulus: Shoulder</div>'+
     '<label class="shoulder_a"></label>'
   }
-  if (bench ==='2', waist !== '3', armpit !== '3'){
+  if (bench ==='2'&& waist !== '3'&& armpit !== '3'){
     preferanceList.innerHTML += 
-    '<div class="subtitle">- Stimulus: Mid Chest</div>'+
+    '<div class="subtitle"><br> Stimulus: Mid Chest</div>'+
     '<label class="chest_b"></label>'
   }
-  if(bench === '2', waist === '3', armpit !== '3'){
-    '<div class="subtitle">- Stimulus: Lower Chest</div>'+
+  if(bench === '2'&& waist === '3'&& armpit !== '3'){
+    preferanceList.innerHTML += 
+    '<div class="subtitle"><br> Stimulus: Lower Chest</div>'+
     '<label class="chest_c"></label>'
   }
 
-  if(bench === '3', armpit === '3'){
-    '<div class="subtitle">- Stimulus: Shoulder</div>'+
+  if(bench === '3'&& armpit === '3'){
+    preferanceList.innerHTML += 
+    '<div class="subtitle"><br> Stimulus: Shoulder</div>'+
     '<label class="shoulder_a"></label>'
   }
   
-  if(bench === '3', armpit !== '3'){
-    '<div class="subtitle">- Stimulus: Lower Chest</div>'+
+  if(bench === '3'&& armpit !== '3'){
+    preferanceList.innerHTML += 
+    '<div class="subtitle"><br> Stimulus: Lower Chest</div>'+
     '<label class="chest_c"></label>'
   }
   
 }
 
 select()
+
+const TestPage = () => {
+  location.href='SecondPage.html'
+}
