@@ -1,9 +1,8 @@
 # BenchBeast
 <h2>
  motivation
-  <h1>
 Bodybuilding is a universal sport community that focuses on muscle growth. The goal and purpose may differ in bodybuilding. But bench press is one of the most basic yet important exercises for chest muscle growth which almost every person in the gym never skips. 
-
+</h2>
     <h2>
    IdeaSketch
       </h2>
@@ -56,12 +55,12 @@ Brought up the images through local storages in Javascript.
 
 The local storage was used to know whether the questions are all selected in the question pages. And collecting data of which answers were chosen, users can get their wrong answers and right answers at the same time in the result page.
     
-    
-    <img width="830" alt="Screen Shot 2022-05-20 at 9 00 32 PM" src="https://user-images.githubusercontent.com/89341312/169628390-4e1ba7be-795c-4d89-8290-816e037b57b4.png">
+<img width="830" alt="Screen Shot 2022-05-20 at 9 00 32 PM" src="https://user-images.githubusercontent.com/89341312/169628679-bf48fd5b-2b9d-47a0-bc37-4b7a75ef31bd.png">
+
 
 In the slider, I set the value 1,2,3 for each selection.
+<img width="702" alt="Screen Shot 2022-05-20 at 8 40 59 PM" src="https://user-images.githubusercontent.com/89341312/169628694-8b179166-8542-4014-80b7-e8c5c30c1c99.png">
 
-    <img width="563" alt="Screen Shot 2022-05-20 at 8 41 27 PM" src="https://user-images.githubusercontent.com/89341312/169628334-b51012fc-afc8-4af8-9ccd-a296c333441e.png">
 
 These values were used to create a result for muscle stimulus. From 27(3x3x3) possibilities of selection, you can get 7 factual results.
     
