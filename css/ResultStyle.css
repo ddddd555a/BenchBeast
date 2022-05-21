@@ -164,8 +164,10 @@
 
 
 
-/* 팁 관련 CSS */
+/* tip CSS */
 .tip_a{
+  font-size: 21px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-image: url("../images/tip1.jpg");
   display: inline-block;
   width: 400px;
@@ -175,6 +177,7 @@
   text-align: center;
 }
 .tip_b{
+  
   background-image: url("../images/tip2.jpg");
   display: inline-block;
   width: 400px;
@@ -182,4 +185,9 @@
   background-repeat: no-repeat;
   background-size: 380px;
   text-align: center;
+  
+}
+
+.tips{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
