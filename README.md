@@ -1,8 +1,10 @@
 # BenchBeast
+
 <h2>
  motivation
-Bodybuilding is a universal sport community that focuses on muscle growth. The goal and purpose may differ in bodybuilding. But bench press is one of the most basic yet important exercises for chest muscle growth which almost every person in the gym never skips. 
 </h2>
+Bodybuilding is a universal sport community that focuses on muscle growth. The goal and purpose may differ in bodybuilding. But bench press is one of the most basic yet important exercises for chest muscle growth which almost every person in the gym never skips. 
+
     <h2>
    IdeaSketch
       </h2>
