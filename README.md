@@ -5,12 +5,12 @@
 </h2>
 Bodybuilding is a universal sport community that focuses on muscle growth. The goal and purpose may differ in bodybuilding. But bench press is one of the most basic yet important exercises for chest muscle growth which almost every person in the gym never skips. 
 
-    <h2>
-   IdeaSketch
-      </h2>
+<h2>
+IdeaSketch
+</h2>
 ![IdeaSketch](https://user-images.githubusercontent.com/89341312/168734463-b71c365c-6eb4-40e9-ac64-efece74ae3fa.jpeg)
 
--Idea Sketch for each page
+
 
 There are total three pages for the project: home page, question page, result page. The home page has a big title 'RU Benchpress freak?' with square button that leads users to question page.
 
