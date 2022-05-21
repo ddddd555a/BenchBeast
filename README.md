@@ -8,6 +8,7 @@ Bodybuilding is a universal sport community that focuses on muscle growth. The g
 <h2>
 IdeaSketch
 </h2>
+
 ![IdeaSketch](https://user-images.githubusercontent.com/89341312/168734463-b71c365c-6eb4-40e9-ac64-efece74ae3fa.jpeg)
 
 
@@ -18,6 +19,7 @@ There are total three pages for the project: home page, question page, result pa
 <h2>
  Questions 
  </h2> 
+ 
  ![firstPageSketch](https://user-images.githubusercontent.com/89341312/168734671-9c15adcd-5e17-4849-be0c-b5af9a6b0741.jpeg)
 
 -List of questions
